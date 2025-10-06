@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e00170d29f2f5634bb2f5a8d8e2527b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireballPrefab: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  - gameplay: {fileID: -5416183571295691514, guid: c7dc11bfc1d49e1488b7f8bd938ec6b7, type: 3}
+  - fireballAimingAction: {fileID: -756531795040661288, guid: c7dc11bfc1d49e1488b7f8bd938ec6b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

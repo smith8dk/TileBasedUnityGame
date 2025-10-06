@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a116aa841257e2342b95b85b3ac3e355, type: 3}
+  m_Name: Level Attack
+  m_EditorClassIdentifier: 
+  attackName: Level
+  attackPrefab: {fileID: 6796662400626052099, guid: 349be932eb26bc945a3dcfe5fc61a444, type: 3}
+  weight: 15
+  cooldownTurns: 5
+  prefabRotationOffset: 0
+  applyRotation: 0
+  shapeType: 1
+  rangeSteps: 2
+  rangeWidth: 5
+  allowEightDirections: 0
+  stopsOnWalls: 1
+  offsets: []
+  spawnTarget: 0
+  fallbackToPlayerIfNoAdjacent: 1

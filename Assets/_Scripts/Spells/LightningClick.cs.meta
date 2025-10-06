@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6f00e2eb7d7687d45b8f2c3429442f3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uiHandler: {instanceID: 0}
+  - hitboxInstance: {fileID: 8887574108258604695, guid: 7e7376093e94986469f4fd1c56ce3bed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

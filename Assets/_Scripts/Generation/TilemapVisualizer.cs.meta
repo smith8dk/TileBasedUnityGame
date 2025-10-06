@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9ef1c210db2a15144b6c93da1d060da6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorTilemap: {instanceID: 0}
+  - wallTilemap: {instanceID: 0}
+  - floorTile: {fileID: 11400000, guid: 471853985ed4b5242ad12af71ace0cf6, type: 2}
+  - wallTop: {fileID: 11400000, guid: 22c9f328675568942a63b2770a6a63dc, type: 2}
+  - wallSideRight: {fileID: 11400000, guid: 56a025a4f1e8ec14ebfa0c2300d95b8e, type: 2}
+  - wallSiderLeft: {fileID: 11400000, guid: 0f895bfef3ebb4f4aacf3fac66196c1c, type: 2}
+  - wallBottom: {instanceID: 0}
+  - wallFull: {instanceID: 0}
+  - wallInnerCornerDownLeft: {instanceID: 0}
+  - wallInnerCornerDownRight: {instanceID: 0}
+  - wallDiagonalCornerDownRight: {instanceID: 0}
+  - wallDiagonalCornerDownLeft: {instanceID: 0}
+  - wallDiagonalCornerUpRight: {instanceID: 0}
+  - wallDiagonalCornerUpLeft: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 8a315443661a44146b3c21d70aae8f13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8660488064105803115
+    second: Daemons_2
+  - first:
+      213: 2506328554285755566
+    second: Daemons_3
+  - first:
+      213: -6812436413751847659
+    second: Daemons_4
+  - first:
+      213: -354344236524984719
+    second: Daemons_5
+  - first:
+      213: -7421083850528085570
+    second: Daemons_6
+  - first:
+      213: -4104715481670510259
+    second: Daemons_7
+  - first:
+      213: 6177075501601533703
+    second: Daemons_9
+  - first:
+      213: -6205263883817022554
+    second: Daemons_11
+  - first:
+      213: 6952124558450652279
+    second: Daemons_14
+  - first:
+      213: 7287449176722530566
+    second: Daemons_15
+  - first:
+      213: -7705142344988743934
+    second: Daemons_16
+  - first:
+      213: -1104937210103502779
+    second: Daemons_17
+  - first:
+      213: -5383051665984936242
+    second: Daemons_20
+  - first:
+      213: 2223229156712978820
+    second: Daemons_21
+  - first:
+      213: 3872488979127691405
+    second: Daemons_22
+  - first:
+      213: 1480903098374382782
+    second: Daemons_23
+  - first:
+      213: 5903203780476642209
+    second: Daemons_24
+  - first:
+      213: -6468955252472751403
+    second: Daemons_25
+  - first:
+      213: -5733468891144105869
+    second: Daemons_26
+  - first:
+      213: 8619593181315066144
+    second: Daemons_27
+  - first:
+      213: 997543046663750981
+    second: Daemons_28
+  - first:
+      213: 4743351366961752154
+    second: Daemons_31
+  - first:
+      213: -4866676472983080188
+    second: Daemons_32
+  - first:
+      213: 5177559829274349963
+    second: Daemons_33
+  - first:
+      213: -352630049830308046
+    second: Daemons_34
+  - first:
+      213: -1415322032550958920
+    second: Daemons_36
+  - first:
+      213: 7658542407909571512
+    second: Daemons_37
+  - first:
+      213: 5736237562643917380
+    second: Daemons_38
+  - first:
+      213: -1426656124264659525
+    second: Daemons_39
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Daemons_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6982520c303870800000000000000
+      internalID: 8660488064105803115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daemons_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 205
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac40749eaadd314469fe86b2553e31f1
+      internalID: 1505232732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daemons_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 203
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c859c21ab274438224349f214e7c0
+      internalID: 763735358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daemons_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 201
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17afa5a346d03d4fa9d2908dc672734
+      internalID: -1717741689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Daemons 1_0_Idle1: 991134049
+      Daemons_11: -6205263883817022554
+      Daemons_14: 6952124558450652279
+      Daemons_15: 7287449176722530566
+      Daemons_16: -7705142344988743934
+      Daemons_17: -1104937210103502779
+      Daemons_2: 8660488064105803115
+      Daemons_20: -5383051665984936242
+      Daemons_21: 2223229156712978820
+      Daemons_22: 3872488979127691405
+      Daemons_23: 1480903098374382782
+      Daemons_24: 5903203780476642209
+      Daemons_25: -6468955252472751403
+      Daemons_26: -5733468891144105869
+      Daemons_27: 8619593181315066144
+      Daemons_28: 997543046663750981
+      Daemons_3: 2506328554285755566
+      Daemons_31: 4743351366961752154
+      Daemons_32: -4866676472983080188
+      Daemons_33: 5177559829274349963
+      Daemons_34: -352630049830308046
+      Daemons_36: -1415322032550958920
+      Daemons_37: 7658542407909571512
+      Daemons_38: 5736237562643917380
+      Daemons_39: -1426656124264659525
+      Daemons_4: -6812436413751847659
+      Daemons_5: -354344236524984719
+      Daemons_6: -7421083850528085570
+      Daemons_7: -4104715481670510259
+      Daemons_9: 6177075501601533703
+      Daemons_Idle_1: 1505232732
+      Daemons_Idle_2: 763735358
+      Daemons_Idle_3: -1717741689
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

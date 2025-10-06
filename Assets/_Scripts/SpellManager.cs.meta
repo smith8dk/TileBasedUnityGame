@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0488b02df77f5d4c98b5bb3da0f901b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitboxPrefab: {instanceID: 0}
+  - uiHandler: {instanceID: 0}
+  - playerController: {fileID: 7102348280355953153, guid: 3e0e2f8c1e9db9144b4b9521078b1c2a, type: 3}
+  - tileHoverHighlighter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
